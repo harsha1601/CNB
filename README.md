@@ -16,7 +16,3 @@ secret number and how many of them are in the correct position.
 3. Commit your changes in that branch.
 4. Open a pull request, and reference the initial issue in the pull request
    message.
-
-## License
-See the [LICENSE](./LICENSE) file.
-
